@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/ullahasad386/finance-tracker.git
+	fetch = +refs/*:refs/*
+	mirror = true
